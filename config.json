@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerselete",
+        "uuid": 2096073,
+        "checksum": "noh96"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
